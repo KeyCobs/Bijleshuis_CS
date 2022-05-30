@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_Classes\\Bijleshuis_Classes\\Bijleshuis_Classes.csproj": {}
+    "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_CS\\Bijleshuis_Classes\\Bijleshuis_Classes\\Bijleshuis_Classes.csproj": {}
   },
   "projects": {
-    "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_Classes\\Bijleshuis_Classes\\Bijleshuis_Classes.csproj": {
+    "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_CS\\Bijleshuis_Classes\\Bijleshuis_Classes\\Bijleshuis_Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_Classes\\Bijleshuis_Classes\\Bijleshuis_Classes.csproj",
+        "projectUniqueName": "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_CS\\Bijleshuis_Classes\\Bijleshuis_Classes\\Bijleshuis_Classes.csproj",
         "projectName": "Bijleshuis_Classes",
-        "projectPath": "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_Classes\\Bijleshuis_Classes\\Bijleshuis_Classes.csproj",
+        "projectPath": "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_CS\\Bijleshuis_Classes\\Bijleshuis_Classes\\Bijleshuis_Classes.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_Classes\\Bijleshuis_Classes\\obj\\",
+        "outputPath": "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_CS\\Bijleshuis_Classes\\Bijleshuis_Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

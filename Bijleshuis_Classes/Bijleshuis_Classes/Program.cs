@@ -10,7 +10,10 @@ namespace Bijleshuis_Classes
             Fietsband fb = new Fietsband("Jumbo Visma",merk);
             Fietsband hr = new Fietsband("quickstep");
 
-            
+
+
+            string[] tassen = new string[] { "Sporttas", "Schooltas", "" };
+
             fb.PrintTeam();
         }
     }

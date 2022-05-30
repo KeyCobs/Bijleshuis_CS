@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nERsjzeSB/ge7Jd4Z2b0/gy+SWW2j6OCXsMLzxxIu0222uLKUYvnsct+oFN8UI029VFyy9/6vnzwEyxpYsqTWA==",
+  "dgSpecHash": "B3G9caNsfyZIKd4nJ/mTpkDLJcOGcz5bjJBsCeEKdZej0+6UK8aztMYEGq9+ShWv22H3UIUKTEKOAHRTTgw96A==",
   "success": true,
-  "projectFilePath": "D:\\Documenten\\Bijleshuis\\C#\\Classes\\Classes\\Classes.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Documenten\\Bijleshuis\\C#\\Bijleshuis_CS\\Classes\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
